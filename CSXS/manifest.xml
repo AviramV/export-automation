@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ExtensionManifest Version="5.0" ExtensionBundleId="com.adobe.ExportAutomation" ExtensionBundleVersion="1.0.0"
+<ExtensionManifest Version="5.0" ExtensionBundleId="com.AviramV.ExportAutomation" ExtensionBundleVersion="1.0.1"
 ExtensionBundleName="Export Automation" 
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ExtensionList>
-		<Extension Id="com.adobe.ExportAutomation" Version="1.0.0" />
+		<Extension Id="com.AviramV.ExportAutomation" Version="1.0.1" />
 	</ExtensionList>
 	<ExecutionEnvironment>
 		<HostList>
@@ -18,7 +18,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	</ExecutionEnvironment>
 
   <DispatchInfoList>
-    <Extension Id="com.adobe.ExportAutomation">
+    <Extension Id="com.AviramV.ExportAutomation">
       <DispatchInfo>
         <Resources>
           <MainPath>./index.html</MainPath>
